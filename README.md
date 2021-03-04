@@ -1,2 +1,2 @@
-# MPC3424
+# MCP3424
 Simple examples for Arduino
